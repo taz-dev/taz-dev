@@ -3,8 +3,6 @@
 
 <h3>🌈 About Me 🍒</h3><br>
 
-![snake gif](https://github.com/taz-dev/taz-dev/blob/output/github-contribution-grid-snake.gif)
-
 <h3>🛠 Tech Stack 🛠</h3>
 <h3></h3>
 <p>
