@@ -1,16 +1,16 @@
-### Hi there 👋
+<h3>Hi there 👀💕</h3>
+<h4>I am Junghyun Park who want to become a developer.</h4><br>
 
-<!--
-**taz-dev/taz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🌈 About Me 🍒</h3><br>
+<h3>🛠 Tech Stack 🛠</h3>
+<h3></h3>
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/JavaScript-FFCD12?style=flat-square&logo=JavaScript&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/Oracle-ED0000?style=flat-square&logo=Oracle&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">&nbsp
+</p><br>
+<h3>📕 Project ✏️</h3>
