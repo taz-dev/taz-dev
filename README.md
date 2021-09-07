@@ -2,6 +2,7 @@
 <h4>I am Junghyun Park who want to become a developer.</h4><br>
 
 <h3>🌈 About Me 🍒</h3><br>
+
 ![snake gif](https://github.com/taz-dev/taz-dev/blob/output/github-contribution-grid-snake.gif)
 
 <h3>🛠 Tech Stack 🛠</h3>
