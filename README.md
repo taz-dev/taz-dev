@@ -2,8 +2,8 @@
 <h4>I am Junghyun Park who want to become a developer.</h4><br>
 
 ## 🧙‍♂️ About Me
-> * Introduction<br>
-> * Contact<br>
+> * Introduction
+> * Contact
 
 ## ⚒️ Skills
 > * Backend
@@ -17,9 +17,9 @@
 >   * IntelliJ, Eclipse
 >   * Git, Github
 
-## 🖥️ Projects<br>
+## 🖥️ Projects
 
-## 📝 Education<br> 
+## 📝 Education
 
 ## 🏅 Certificate
 > * 정보처리기사<br>
