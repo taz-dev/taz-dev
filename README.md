@@ -5,6 +5,8 @@
 ## 🧙‍♂️ About Me
 > * Introduction
 > * Contact
+>   * Email|tazdev@naver.com
+>   * Blog|[http://velog.io/@tazdev](http://velog.io/@tazdev)
 
 
 ## ⚒️ Skills
