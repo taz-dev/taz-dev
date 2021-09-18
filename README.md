@@ -4,23 +4,23 @@
 ## 🧙‍♂️ About Me
 > * Introduction<br>
 > * Contact
-
+<br>
 ## ⚒️ Skills
 > * Backend
 >   * Java
 >   * SpringBoot, SpringMVC, Spring Data JPA
 >   * JPA, MyBatis
->   * Maven
+>   * Maven<br>
 > * DevOps
->   * MySQL, Oracle
+>   * MySQL, Oracle<br>
 > * Collaboration & Tools
 >   * IntelliJ, Eclipse
 >   * Git, Github
-
+<br>
 ## 🖥️ Projects
-
+<br>
 ## 📝 Education 
-
+<br>
 ## 🏅 Certificate
 > * 정보처리기사<br>
 > `2021.09.01 필기 합격`
