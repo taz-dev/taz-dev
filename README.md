@@ -2,9 +2,20 @@
 <h4>I am Junghyun Park who want to become a developer.</h4><br>
 
 ## 🧙‍♂️ About Me
-#### Introduction
-#### Contact
+> * Introduction<br>
+> * Contact
+
 ## ⚒️ Skills
+> * Backend
+>   * Java
+>   * SpringBoot, SpringMVC, Spring Data JPA
+>   * JPA, MyBatis
+>   * Maven
+> * DevOps
+>   * MySQL, Oracle
+> * Collaboration & Tools
+>   * IntelliJ, Eclipse
+>   * Git, Github
 
 ## 🖥️ Projects
 
