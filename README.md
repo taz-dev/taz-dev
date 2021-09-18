@@ -1,9 +1,11 @@
 <h3>Hi there 👀💕</h3>
-<h4>I am Junghyun Park who want to become a developer.</h4><br>
+<h4>I am Junghyun Park who want to become a developer.</h4>
+
 
 ## 🧙‍♂️ About Me
 > * Introduction
 > * Contact
+
 
 ## ⚒️ Skills
 > * Backend
@@ -17,9 +19,12 @@
 >   * IntelliJ, Eclipse
 >   * Git, Github
 
+
 ## 🖥️ Projects
 
+
 ## 📝 Education
+
 
 ## 🏅 Certificate
 > * 정보처리기사<br>
