@@ -1,14 +1,14 @@
 <h3>Hi there 👀💕</h3>
 <h4>I am Junghyun Park who want to become a developer.</h4><br>
 
-<h2>🧙‍♂️ About Me</h2>
-<h4>Introduction</h4>
-<h4>Contact</h4>
-<h2>⚒️ Skills</h2>
+## 🧙‍♂️ About Me
+#### Introduction
+#### Contact
+## ⚒️ Skills
 
-<h2>🖥️ Projects</h2>
+## 🖥️ Projects
 
-<h2>📝 Education</h2>
+## 📝 Education<br>
 
 > ## 🏅 Certificate
 > * 정보처리기사
