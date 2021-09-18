@@ -8,10 +8,10 @@
 
 ## 🖥️ Projects
 
-## 📝 Education<br>
+## 📝 Education 
 
-> ## 🏅 Certificate
-> * 정보처리기사
+## 🏅 Certificate
+> * 정보처리기사<br>
 > `2021.09.01 필기 합격`
 > `한국산업인력공단`
 
