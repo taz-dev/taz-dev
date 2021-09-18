@@ -3,9 +3,7 @@
 
 <h3>🧙‍♂️ About Me</h3>
 <h4>Introduction</h4>
-*ㅁ
-*ㄴㅇ
-*ㅇ
+
 <h4>Contact</h4>
 <h3>⚒️ Skills</h3>
 
