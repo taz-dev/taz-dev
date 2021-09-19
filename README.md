@@ -23,8 +23,8 @@
 > * Travel Planner '2021.08.22 ~ 진행중'
 > * Cozy Home '2021.07.14 ~ 2021.08.06'<br/><br/>
 
-## 📝 Education<br/><br/>
-
+## 📝 Education
+<br/><br/>
 
 ## 🏅 Certificate
 > * 정보처리기사<br>
