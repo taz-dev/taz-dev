@@ -3,8 +3,8 @@
 ## 🧙‍♂️ About Me
 > * Introduction
 > * Contact
->   * <mark>Email</mark> tazdev@naver.com
->   * <mark>Blog</mark>
+>   * <span class="evidence">Email</span> tazdev@naver.com
+>   * <span class="evidence">Blog</span>
 
 ## ⚒️ Skills
 > * Backend
