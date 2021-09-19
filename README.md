@@ -1,13 +1,10 @@
-<h3>Hi there 👀💕</h3>
-<h4>I am Junghyun Park who want to become a developer.</h4>
 
 
 ## 🧙‍♂️ About Me
 > * Introduction
 > * Contact
->   * Email: tazdev@naver.com
->   * Blog  
-
+>   * <mark>Email</mark> tazdev@naver.com
+>   * <mark>Blog</mark>
 
 ## ⚒️ Skills
 > * Backend
@@ -23,7 +20,8 @@
 
 
 ## 🖥️ Projects
-
+> * Travel Planner '2021.08.22 ~ 진행중'
+> * Cozy Home '2021.07.14 ~ 2021.08.06'
 
 ## 📝 Education
 
