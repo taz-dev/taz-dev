@@ -1,11 +1,10 @@
-
+# Hi, there!🤗
 
 ## 🧙‍♂️ About Me
 > * Introduction
 > * Contact
 >   * **Email** tazdev@naver.com
 >   * **Blog**
-<br><br>
 
 ## ⚒️ Skills
 > * Backend
@@ -18,14 +17,12 @@
 > * Collaboration & Tools
 >   * IntelliJ, Eclipse
 >   * Git, Github
-<br><br>
 
 ## 🖥️ Projects
-> * ###Travel Planner<br>
+> * **Travel Planner**<br>
 > `2021.08.22 ~ 진행중`
-> * ###Cozy Home<br>
+> * **Cozy Home**<br>
 > `2021.07.14 ~ 2021.08.06`
-<br><br>
 
 ## 📝 Education
 <br><br>
