@@ -20,8 +20,8 @@
 <br/><br/>
 
 ## 🖥️ Projects
-> * Travel Planner '2021.08.22 ~ 진행중'
-> * Cozy Home '2021.07.14 ~ 2021.08.06'
+> * Travel Planner<br> '2021.08.22 ~ 진행중'
+> * Cozy Home<br> '2021.07.14 ~ 2021.08.06'
 <br/><br/>
 
 ## 📝 Education
