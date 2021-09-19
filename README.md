@@ -5,8 +5,8 @@
 ## 🧙‍♂️ About Me
 > * Introduction
 > * Contact
->   * Email✉️ tazdev@naver.com
->   * Blog 
+>   * Email: tazdev@naver.com
+>   * Blog  
 
 
 ## ⚒️ Skills
@@ -14,12 +14,12 @@
 >   * Java
 >   * SpringBoot, SpringMVC, Spring Data JPA
 >   * JPA, MyBatis
->   * Maven
+>   * Maven  
 > * DevOps
->   * MySQL, Oracle
+>   * MySQL, Oracle  
 > * Collaboration & Tools
 >   * IntelliJ, Eclipse
->   * Git, Github
+>   * Git, Github  
 
 
 ## 🖥️ Projects
