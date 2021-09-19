@@ -5,6 +5,7 @@
 > * Contact
 >   * Email tazdev@naver.com
 >   * Blog
+<br><br>
 
 ## ⚒️ Skills
 > * Backend
@@ -13,21 +14,21 @@
 >   * JPA, MyBatis
 >   * Maven<br><br>
 > * DevOps
->   * MySQL, Oracle<br/>  
+>   * MySQL, Oracle<br><br>
 > * Collaboration & Tools
 >   * IntelliJ, Eclipse
 >   * Git, Github
-<br/><br/>
+<br><br>
 
 ## 🖥️ Projects
 > * Travel Planner<br>
 > `2021.08.22 ~ 진행중`
 > * Cozy Home<br>
 > `2021.07.14 ~ 2021.08.06`
-<br/><br/>
+<br><br>
 
 ## 📝 Education
-<br/><br/>
+<br><br>
 
 ## 🏅 Certificate
 > * 정보처리기사<br>
