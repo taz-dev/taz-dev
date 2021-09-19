@@ -11,7 +11,7 @@
 >   * Java
 >   * SpringBoot, SpringMVC, Spring Data JPA
 >   * JPA, MyBatis
->   * Maven<br/>  
+>   * Maven<br><br>
 > * DevOps
 >   * MySQL, Oracle<br/>  
 > * Collaboration & Tools
