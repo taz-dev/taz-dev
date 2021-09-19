@@ -4,8 +4,8 @@
 > * Introduction
 > * Contact
 >   * Email tazdev@naver.com
->   * Blog<br/><br/>
-
+>   * Blog
+<br/><br/>
 ## ⚒️ Skills
 > * Backend
 >   * Java
