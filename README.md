@@ -1,9 +1,7 @@
 ### Hi, there!🤗
 
 ## 🧙‍♂️ About Me
-> * Introduction
->   * 
->   * 
+> * Introduction<br> 
 > * Contact
 >   * **Email** tazdev@naver.com
 >   * **Blog**
