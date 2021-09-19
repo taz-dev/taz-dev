@@ -3,27 +3,27 @@
 ## 🧙‍♂️ About Me
 > * Introduction
 > * Contact
->   * <span class="evidence">Email</span> tazdev@naver.com
->   * <span class="evidence">Blog</span>
+>   * Email tazdev@naver.com
+>   * Blog<br/><br/>
 
 ## ⚒️ Skills
 > * Backend
 >   * Java
 >   * SpringBoot, SpringMVC, Spring Data JPA
 >   * JPA, MyBatis
->   * Maven  
+>   * Maven<br/>  
 > * DevOps
->   * MySQL, Oracle  
+>   * MySQL, Oracle<br/>  
 > * Collaboration & Tools
 >   * IntelliJ, Eclipse
->   * Git, Github  
+>   * Git, Github<br/><br/>  
 
 
 ## 🖥️ Projects
 > * Travel Planner '2021.08.22 ~ 진행중'
-> * Cozy Home '2021.07.14 ~ 2021.08.06'
+> * Cozy Home '2021.07.14 ~ 2021.08.06'<br/><br/>
 
-## 📝 Education
+## 📝 Education<br/><br/>
 
 
 ## 🏅 Certificate
