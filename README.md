@@ -1,7 +1,9 @@
-# Hi, there!🤗
+### Hi, there!🤗
 
 ## 🧙‍♂️ About Me
 > * Introduction
+>   * 안녕하세요, 백엔드 개발자를 꿈꾸는 박정현입니다.
+>   * 
 > * Contact
 >   * **Email** tazdev@naver.com
 >   * **Blog**
