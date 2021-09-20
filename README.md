@@ -24,7 +24,7 @@
 > * **Cozy Home**<br>
 > `2021.07.14 ~ 2021.08.06`
 
-## 📝 Education
+## 📚 Education
 <br><br>
 
 ## 🏅 Certificate
