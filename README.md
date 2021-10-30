@@ -4,7 +4,7 @@
 > * Introduction<br>
 >   * 안녕하세요. **Backend-Developer**를 꿈꾸는 박정현입니다.
 > * Contact
->   * **Email📧** tazdev@naver.com
+>   * **Email** tazdev@naver.com
 >   * **Blog**
 
 ## ⚒️ Skills
