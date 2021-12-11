@@ -1,22 +1,8 @@
-### Hi, there!🤗
+#### 🍄 Junghyun Park
+###### Hi. This is junghyun. <br> I want to become a developer. <br> I have project experience using **Java**. <br> If you want to contact me, please leave me a message tazdev@naver.com.
 
-## 🧙‍♂️ About Me
-> * Introduction<br>
->   * 안녕하세요. **Backend-Developer**를 꿈꾸는 박정현입니다.
-> * Contact
->   * **Email** tazdev@naver.com
-
-## ⚒️ Skills
-> * Backend
->   * Java
->   * SpringBoot, SpringMVC, Spring Data JPA
->   * JPA, MyBatis
->   * Gradle<br><br>
-> * DevOps
->   * MySQL, Oracle<br><br>
-> * Collaboration & Tools
->   * IntelliJ, Eclipse
->   * Git, Github
+#### 🌈 Interest
+###### Back-end technologies such as SpringBoot, SpringMVC, Spring Data JPA. <br> 
 
 ![snake gif](https://github.com/taz-dev/taz-dev/blob/output/github-contribution-grid-snake.gif)
 
