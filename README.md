@@ -6,6 +6,5 @@
 #### 📞 Contact
 ###### If you want to contact me, please leave me a message tazdev@naver.com.
 
-#### 👀 Look
 ![snake gif](https://github.com/taz-dev/taz-dev/blob/output/github-contribution-grid-snake.gif)
 
