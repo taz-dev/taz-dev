@@ -1,7 +1,7 @@
-### 정현 Junghyun Park
-###### Hi. This is junghyun. <br> I want to become a developer. <br> I have project experience using **Java**. <br> 
-#### Interest 👀
-###### Back-end technologies such as SpringBoot, SpringMVC, Spring Data JPA. <br> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghyun&theme=vue&show_icons=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taz-dev&repo=triplan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/taz-dev/taz-dev/blob/output/github-contribution-grid-snake.gif)
 
