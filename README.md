@@ -1,5 +1,3 @@
-### Hi There!
-<br>
 
 😎 **Tech Stack** 😎
 
