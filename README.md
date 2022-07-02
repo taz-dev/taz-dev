@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=190&section=header&text=Hi! I'm JungHyun&fontSize=50" />
+</p>
 
 <!--
 ## 정현 / Backend Developer
