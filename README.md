@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=190&section=header&text=Hi! I'm Junghyun&fontSize=50" />
 </p>
 
+### Junghyun / Backend Developer
+* 🌱 I'm currently working on **Transportation Card Recharge Payment App Projects**.
+* 🌈 I'm interested in **handling large volumes of traffic**.
+* ✍ I'm currently studying **Concurrency Control** and **Spring AOP**.
+
 <!--
 ## 정현 / Backend Developer
 ### 🌱 Currently Doing
