@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=190&section=header&text=Hi! I'm Junghyun&fontSize=50" />
-</p>
-
 ### Junghyun / Backend Developer
 * 🌱 I'm currently working on **Transportation Card Recharge Payment App Projects**.
 * 🌈 I'm interested in **handling large volumes of traffic**.
@@ -16,6 +12,10 @@
 + java
 + spring
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghyun&theme=vue&show_icons=true)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=190&section=header&text=Hi! I'm Junghyun&fontSize=50" />
+</p>
 
 
 😎 **Tech Stack** 😎
