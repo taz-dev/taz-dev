@@ -1,4 +1,4 @@
-### Junghyun / Backend Developer
+### Junghyun | Backend Developer
 
 <!--
 * 🌱 I'm currently working on **Transportation Card Recharge Payment App Projects**.
