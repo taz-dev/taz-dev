@@ -1,10 +1,11 @@
 ### Junghyun / Backend Developer
+
+<!--
 * 🌱 I'm currently working on **Transportation Card Recharge Payment App Projects**.
 * 🌈 I'm interested in **handling large volumes of traffic**.
 * ✍ So I'm currently studying **Concurrency Control in a Multi-Threaded Environment** and **Spring AOP**.
 * 📫 How to reach me: tazdev@naver.com
 
-<!--
 ## 정현 / Backend Developer
 ### 🌱 Currently Doing
 + 
